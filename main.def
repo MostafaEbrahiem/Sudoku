@@ -1,0 +1,5 @@
+EXPORTS
+read_file @1
+edit @2
+clear @3
+continue @4
